@@ -1,5 +1,3 @@
-// __tests__/validatePhoneNumber.test.ts
-
 import { validatePhoneNumber } from '../src/validatePhoneNumber';
 
 describe('validatePhoneNumber', () => {
